@@ -1,4 +1,7 @@
 # swag-of-india
+Description: Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button.
+
+Skills used: HTML, CSS, Vanilla JavaScript and Bootstrap
 Description
 
 This is my portfolio project, and it demonstrates my ability to create a fully responsive front-end for an e-commerce website using popular tools like HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, and JSON. Working on this project helped me solidify my understanding of the above-mentioned tools and implement them in different segments of this e-commerce project.
